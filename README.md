@@ -4,7 +4,7 @@
 
 ## Integantes 
 
-- Adão Yuri Ferreira da Silva - RM559223;
+- Adão Yuri Ferreira da Silva - RM559223
 - João Vitor Lopes Santana - RM560781
 
 ---
@@ -46,9 +46,9 @@ Ao final, o botão **“Acabou o Rolê”** encerra o encontro e gera um **resum
 O **app mobile** é o coração do Rolê.  
 Ele oferece uma **interface social em tempo real**, permitindo futuramente:
 
-- Visualizar eventos próximos com base na localização do usuário;  
-- Criar e gerenciar rolês com amigos;  
-- Interagir via feed de publicações e comentários;  
+- Visualizar eventos próximos com base na localização do usuário; 
+- Criar e gerenciar rolês com amigos  
+- Interagir via feed de publicações e comentários  
 - Receber notificações automáticas conforme status de presença dos participantes.
 
 O app também **consome a API pública da Ticketmaster**, permitindo exibir eventos reais, como shows e festivais, dentro da própria aplicação.
