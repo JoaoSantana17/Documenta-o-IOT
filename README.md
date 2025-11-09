@@ -4,7 +4,7 @@
 
 ## Integantes 
 
-**- Adão Yuri Ferreira da Silva - RM559223**
+**- Adão Yuri Ferreira da Silva - RM559223**;
 **- João Vitor Lopes Santana - RM560781**
 
 ---
