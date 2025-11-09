@@ -1,13 +1,15 @@
-# 🎉 Rolé – Aplicativo Social Inteligente com IoT e IA
+# 🎉 Rolé – Aplicativo Social Inteligente
 
 > **Um app para conectar pessoas, integrar tecnologia e transformar o jeito de marcar encontros presenciais.**
 
 ## Integantes 
 
-**Adão Yuri Ferreira da Silva - RM559223**
-**João Vitor Lopes Santana - RM560781**
----
+**- Adão Yuri Ferreira da Silva - RM559223**
+**- João Vitor Lopes Santana - RM560781**
 
+---
+## Link Vídeo: https://www.youtube.com/watch?v=Xy1AiOvj63w&t=2s
+---
 ## Visão Geral
 
 O **Rolé** um aplicativo social desenvolvido para **facilitar a organização de encontros presenciais entre amigos e grupos**.  
